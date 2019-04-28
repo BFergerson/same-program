@@ -1,4 +1,4 @@
-def main()
+def main
     k = 10;
     until k < 0
         puts k
